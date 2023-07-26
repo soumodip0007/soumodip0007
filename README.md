@@ -88,23 +88,6 @@ Fullstack Developer skilled in MERN and MEAN stack. Efficient in multiple progra
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=noobchirag69&theme=monokai&margin-w=15&margin-h=15&column=5&no-bg=true&rank=-B,-?,-C)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Profile Statistics
-
-<table>
-  <tr>
-    <td>
-      <img src="">
-    </td>
-    <td rowspan="2">
-      <img src="">
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="">
-    </td>
-  </tr>
-</table>
 
 ## Connect With Me
 
