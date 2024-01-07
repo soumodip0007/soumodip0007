@@ -1,6 +1,6 @@
 ![Header](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 # Hi there 👋 I'm Soumodip Das
-### Completed Master of Computer Application from Univeristy of Engineering & Management (UEM), Kolkata. 24 years old, with a lot to learn and goals to accomplish.
+### Completed Master of Computer Application from Institute of Engineering & Management (IEM), Kolkata. 24 years old, with a lot to learn and goals to accomplish.
 
 ## Bio
 
